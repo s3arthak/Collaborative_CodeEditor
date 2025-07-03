@@ -1,0 +1,53 @@
+.problem-search-container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  color: white;
+  background-color: #1e1e2f;
+  height: 100vh;
+  overflow-y: auto;
+}
+
+.inputField {
+  padding: 10px;
+  border-radius: 6px;
+  border: none;
+  outline: none;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.searchBtn {
+  background-color: rgb(99, 92, 232);
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+  margin-bottom: 15px;
+}
+
+.searchBtn:hover {
+  background-color: rgb(189, 187, 225);
+  color: black;
+}
+
+.problem-card {
+  background-color: #2c2f3a;
+  padding: 12px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+  border-left: 4px solid rgb(99, 92, 232);
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.1);
+}
+
+.problem-full-view {
+  background: #2c2f3a;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 10px;
+  color: white;
+  overflow-y: auto;
+}
