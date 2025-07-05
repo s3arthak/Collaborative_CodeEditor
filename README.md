@@ -4,8 +4,8 @@ A real-time collaborative code editor built with inbuilt compiler And leetcode t
 
 ## 🌐 Live Demo
 
-Frontend: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)  
-Backend: [https://your-backend.onrender.com](https://your-backend.onrender.com)
+Frontend: https://collaborative-code-editor-3xvu.vercel.app
+
 
 ---
 
