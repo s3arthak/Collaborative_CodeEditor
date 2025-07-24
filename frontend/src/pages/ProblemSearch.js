@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "../ProblemSearch.css"; // Make sure your CSS is linked
+import "../ProblemSearch.css"; 
 const sampleProblems = [
   {
     id: 1,
